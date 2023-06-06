@@ -11,7 +11,7 @@
 
 .shop-banner {
     height: 180px;
-    background-image: url(images/redbanner.bmp);
+    background-image: url(../images/redbanner.bmp);
     margin-top: 30px;
     display: flex;
     width:1200px;
